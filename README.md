@@ -6,9 +6,9 @@
 
 ## node端
 *工具* | ***建站、命令行工具、配置***
-|名称 | 描述|
-|---|---|
-|commander | 命令行工具 - node 命令行获取参数|
+| 名称 | 描述 |
+| :---: |:-----------:  |
+| commander | 命令行工具 - node 命令行获取参数 |
 pm2 | 命令行工具 - node 管理服务器项目启动的进程
 nodemon | 命令行工具 - 代替 node 热替换启动服务
 express | 建站 - node 端服务
@@ -95,6 +95,5 @@ babel | 工具类 - 核心利用 AST 转义 js 代码，插件话扩展
 fontCreator - 软件 | 工具类 - 把图片转成字体图标，矢量图
 roadhog  | 脚手架 - 在create-react-app 基础上，加上了热替换，按需加载，代理等，和ant紧密结合
 create-react-app | 脚手架 - 快速创建一个初始化的项目，结合 webpack 与 react 
-
 
 
