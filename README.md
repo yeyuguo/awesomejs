@@ -61,6 +61,7 @@ backbone | UI框架 - mvc 的框架
 ---|---
 echart | UI 图表 - canvas 绘制的图表，接口简洁易用
 highchart | UI 图表 - svg 绘制的图表，接口简洁易用
+[animate.css](https://daneden.github.io/animate.css/) | 便捷添加动画样式的库
 
 ### 动画
 *UI* | ***动画弹窗***
@@ -103,7 +104,7 @@ graphql | 数据请求 - 根据查询条件请求接口自定义返回数据结�
 ---|---
 webpack | 脚手架 - 能做任何事，编译源代码，提高开发体验，插件化扩展
 rollup - 未使用 | 脚手架 - 类 webpack，默认已经有很多功能自带了，不用像 webpack 需要额外添加
-babel | 工具类 - 核心利用 AST 转义 js 代码，插件话扩展
+babel | 工具类 - 核心利用 AST 转义 js 代码，插件化扩展
 fontCreator - 软件 | 工具类 - 把图片转成字体图标，矢量图
 roadhog  | 脚手架 - 在create-react-app 基础上，加上了热替换，按需加载，代理等，和ant紧密结合
 create-react-app | 脚手架 - 快速创建一个初始化的项目，结合 webpack 与 react 
